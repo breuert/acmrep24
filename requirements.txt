@@ -1,0 +1,6 @@
+repro_eval==0.4 
+python-terrier==0.10.0
+tqdm==4.66.2
+pandas==1.5.3 
+seaborn==0.13.1
+matplotlib==3.7.1
